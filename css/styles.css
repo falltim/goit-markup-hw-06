@@ -948,8 +948,7 @@ header {
   resize: none; 
   padding: 12px 16px;
   transform: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  }
-
+}
 
 .modal-form-message:focus{
   outline: none;
@@ -957,7 +956,6 @@ header {
 }
 
 .modal-form-message::placeholder{
-  text-transform: uppercase;
   color: rgba(117, 117, 117, 0.5);
 }
 
